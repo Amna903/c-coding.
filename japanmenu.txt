@@ -1,0 +1,43 @@
+Green Tea,100,10
+Matcha,130,13
+Amazake,140,14
+Shochu,150,15
+Umeshu,160,16
+Genmaicha,170,17
+Hojicha,180,18
+Mugicha,190,19
+Calpis,100,10
+Mochi,200,20
+Dorayaki,250,25
+Anmitsu,150,15
+Daifuku,300,30
+Matcha Ice Cream,350,35
+Castella,100,10
+Taiyaki,400,40
+Dango,450,45
+Yokan,50,5
+Warabimochi,75,7
+Sushi,111,11
+Ramen,133,10
+Tempura,234,9
+Okonomiyaki,321,8
+Sashimi,41,7
+Udon,50,6
+Yakitori,115,5
+Onigiri,125,12
+Miso Soup,135,13
+Tonkatsu,145,14
+Edamame,155,15
+Takoyaki,165,16
+Senbei,175,17
+Wasabi Peas,185,18
+Rice Crackers,195,19
+Nori Maki Arare,105,10
+Karinto,500,5
+Kaki No Tane,400,10
+Pretz,300,12
+Umaibo,200,13
+Chawanmushi,100,14
+,0,0
+wes,2,1
+,0,0

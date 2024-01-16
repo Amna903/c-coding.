@@ -1,0 +1,41 @@
+Espresso,100,10
+Cappuccino,120,12
+Latte,130,13
+Macchiato,140,14
+Americano,150,15
+Negroni,160,16
+Bellini,170,17
+Aperol Spritz,180,18
+Limoncello,170,19
+Grappa,180,18
+Pizza,190,19
+Pasta,100,10
+Lasagna,200,20
+Risotto,250,25
+Polenta,190,15
+Osso Buco alla Milanese,100,10
+Saltimbocca,200,20
+Pesto,300,25
+Ribollita,240,15
+Tortellini,310,30
+Ossobuco,320,40
+Carbonara,340,39
+Bruschetta,250,38
+Caprese Salad,150,37
+Panzanella,300,36
+Arancini,350,35
+Prosciutto,100,10
+Bruschetta,400,40
+Olives,450,45
+Caprese Skewers,50,5
+Focaccia,75,7
+Antipasto,115,11
+Crostini,125,12
+Caponata,135,13
+Tramezzini,145,14
+Tiramisu,155,15
+Cannoli,165,16
+Panna Cotta,175,17
+Gelato,185,18
+Zabaglione,195,19
+Biscotti,105,10

@@ -1,0 +1,39 @@
+Papdi Chaat,105,19
+Sev Puri,100,10
+Biryani,200,20
+Butter Chicken,250,25
+Palak Paneer,150,15
+Rogan Josh,300,30
+Tandoori Chicken,350,35
+Chole Bhature,100,10
+Nihari,400,40
+Haleem,450,45
+Samosa,50,5
+Pani Puri,75,7
+Gulab Jamun,100,10
+Jalebi,50,10
+Barfi,60,20
+Rasgulla,50,5
+Kheer,120,10
+Halwa,50,15
+Laddu,150,10
+Rasmalai,100,13
+Peda,90,12
+Kulfi,80,10
+Chai,100,10
+Lassi,120,12
+Rooh Afza,130,5
+Sugarcane Juice,140,10
+Falooda,150,15
+Aam Panna,160,10
+Jal Jeera,170,13
+Masala Soda,180,12
+Thandai,190,10
+Sabz Chai,50,12
+,0,0
+,0,0
+,0,0
+,0,0
+noodle,234,2
+,0,0
+bubble,34,45
