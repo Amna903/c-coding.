@@ -1,0 +1,120 @@
+Samosa,115,11
+Pakora,135,12
+Bhel Puri,145,13
+Pani Puri,155,14
+Aloo Tikki,165,15
+Chana Chaat,175,16
+Dahi Bhalla,185,17
+Kachori,195,18
+Papdi Chaat,105,19
+Sev Puri,100,10
+Biryani,200,20
+Butter Chicken,250,25
+Palak Paneer,150,15
+Rogan Josh,300,30
+Tandoori Chicken,350,35
+Chole Bhature,100,10
+Nihari,400,40
+Haleem,450,45
+Samosa,50,5
+Pani Puri,75,7
+Gulab Jamun,100,10
+Jalebi,50,10
+Barfi,60,20
+Rasgulla,50,5
+Kheer,120,10
+Halwa,50,15
+Laddu,150,10
+Rasmalai,100,13
+Peda,90,12
+Kulfi,80,10
+Chai,100,10
+Lassi,120,12
+Rooh Afza,130,13
+Sugarcane Juice,140,14
+Falooda,150,15
+Aam Panna,160,16
+Jal Jeera,170,17
+Masala Soda,180,18
+Thandai,190,19
+Sharbat,100,10
+Samosa,115,11
+Pakora,135,12
+Bhel Puri,145,13
+Pani Puri,155,14
+Aloo Tikki,165,15
+Chana Chaat,175,16
+Dahi Bhalla,185,17
+Kachori,195,18
+Papdi Chaat,105,19
+Sev Puri,100,10
+Biryani,200,20
+Butter Chicken,250,25
+Palak Paneer,150,15
+Rogan Josh,300,30
+Tandoori Chicken,350,35
+Chole Bhature,100,10
+Nihari,400,40
+Haleem,450,45
+Samosa,50,5
+Pani Puri,75,7
+Gulab Jamun,100,10
+Jalebi,50,10
+Barfi,60,20
+Rasgulla,50,5
+Kheer,120,10
+Halwa,50,15
+Laddu,150,10
+Rasmalai,100,13
+Peda,90,12
+Kulfi,80,10
+Chai,100,10
+Lassi,120,12
+Rooh Afza,130,13
+Sugarcane Juice,140,14
+Falooda,150,15
+Aam Panna,160,16
+Jal Jeera,170,17
+Masala Soda,180,18
+Thandai,190,19
+Sharbat,100,10
+Samosa,115,11
+Pakora,135,12
+Bhel Puri,145,13
+Pani Puri,155,14
+Aloo Tikki,165,15
+Chana Chaat,175,16
+Dahi Bhalla,185,17
+Kachori,195,18
+Papdi Chaat,105,19
+Sev Puri,100,10
+Biryani,200,20
+Butter Chicken,250,25
+Palak Paneer,150,15
+Rogan Josh,300,30
+Tandoori Chicken,350,35
+Chole Bhature,100,10
+Nihari,400,40
+Haleem,450,45
+Samosa,50,5
+Pani Puri,75,7
+Gulab Jamun,100,10
+Jalebi,50,10
+Barfi,60,20
+Rasgulla,50,5
+Kheer,120,10
+Halwa,50,15
+Laddu,150,10
+Rasmalai,100,13
+Peda,90,12
+Kulfi,80,10
+Chai,100,10
+Lassi,120,12
+Rooh Afza,130,13
+Sugarcane Juice,140,14
+Falooda,150,15
+Aam Panna,160,16
+Jal Jeera,170,17
+Masala Soda,180,18
+Thandai,190,19
+Sharbat,100,10
