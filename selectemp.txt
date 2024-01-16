@@ -1,4 +1,0 @@
-,,,,,,
-Anza,12345678901,123456789,11,1234567890111,lahore,gmail@com.
-amna,12345678909,fdg,23,1234567890123,lahore,@gmail.com
-amna,12345678909,ssss,23,1234567890987,lahore,a@gmail.com
